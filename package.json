@@ -1,0 +1,26 @@
+{
+  "name": "formwizard2",
+  "version": "1.0.0",
+  "description": "form wizard example",
+  "main": "index.js",
+  "scripts": {
+    "test": "devstart"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronyn0/formwizard2.git"
+  },
+  "keywords": [
+    "form",
+    "wizard"
+  ],
+  "author": "Ron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronyn0/formwizard2/issues"
+  },
+  "homepage": "https://github.com/ronyn0/formwizard2#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
